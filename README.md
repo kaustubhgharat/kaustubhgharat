@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaustubhgharat
 - 👀 I’m interested in ... Web developer
-- 🌱 I’m currently learning ... REact js
+- 🌱 I’m currently learning ... Next.js
 - 💞️ I’m looking to collaborate on ... Various Web Project
 
 <!---
